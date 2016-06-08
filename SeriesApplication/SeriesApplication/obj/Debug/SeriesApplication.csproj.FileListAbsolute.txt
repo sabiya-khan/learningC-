@@ -1,0 +1,6 @@
+c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\bin\Debug\SeriesApplication.exe.config
+c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\bin\Debug\SeriesApplication.exe
+c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\bin\Debug\SeriesApplication.pdb
+c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.exe
+c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.pdb
+c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.csprojResolveAssemblyReference.cache
