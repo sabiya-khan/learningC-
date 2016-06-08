@@ -4,3 +4,9 @@ c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\Series
 c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.exe
 c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.pdb
 c:\users\aisadmin\documents\visual studio 2013\Projects\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.csprojResolveAssemblyReference.cache
+C:\Users\aisadmin\Documents\GitHub\learningCSharp\SeriesApplication\SeriesApplication\bin\Debug\SeriesApplication.exe.config
+C:\Users\aisadmin\Documents\GitHub\learningCSharp\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.exe
+C:\Users\aisadmin\Documents\GitHub\learningCSharp\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.pdb
+C:\Users\aisadmin\Documents\GitHub\learningCSharp\SeriesApplication\SeriesApplication\bin\Debug\SeriesApplication.exe
+C:\Users\aisadmin\Documents\GitHub\learningCSharp\SeriesApplication\SeriesApplication\bin\Debug\SeriesApplication.pdb
+C:\Users\aisadmin\Documents\GitHub\learningCSharp\SeriesApplication\SeriesApplication\obj\Debug\SeriesApplication.csprojResolveAssemblyReference.cache
